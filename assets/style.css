@@ -16,6 +16,7 @@ body {
     font-size: 12px;
     /* padding: 15px;    */
     background-image: url(assets\images\Boho-MIX-02.png);
+    /* background-image still not loading until an img on html */
     background-repeat: repeat;
     background-size: 75px 75px;
     /* if background image doesn't load */
